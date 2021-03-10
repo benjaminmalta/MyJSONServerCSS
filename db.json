@@ -3,7 +3,7 @@
       {
          "id":1,
          "title":"Task 01",
-         "description":"Description for task 1",
+         "description":"Description for task 01",
          "location":"Valletta",
          "date":"1st of Jan",
          "time":"12.00"
@@ -11,7 +11,7 @@
       {
          "id":2,
          "title":"Task 02",
-         "description":"Description for task 1",
+         "description":"Description for task 02",
          "location":"Valletta",
          "date":"1st of Jan",
          "time":"12.00"
@@ -19,7 +19,7 @@
       {
          "id":3,
          "title":"Task 03",
-         "description":"Description for task 1",
+         "description":"Description for task 03",
          "location":"Valletta",
          "date":"1st of Jan",
          "time":"12.00"
