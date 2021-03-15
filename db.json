@@ -23,6 +23,30 @@
          "location":"Valletta",
          "date":"1st of Jan",
          "time":"12.00"
+      },
+      {
+         "id":4,
+         "title":"Task 04",
+         "description":"Description for task 04",
+         "location":"Valletta",
+         "date":"1st of Jan",
+         "time":"12.00"
+      },
+      {
+         "id":5,
+         "title":"Task 05",
+         "description":"Description for task 05",
+         "location":"Valletta",
+         "date":"1st of Jan",
+         "time":"12.00"
+      },
+      {
+         "id":6,
+         "title":"Task 06",
+         "description":"Description for task 06",
+         "location":"Valletta",
+         "date":"1st of Jan",
+         "time":"12.00"
       }
    ]
 }
